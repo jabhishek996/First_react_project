@@ -1,0 +1,97 @@
+
+.containerlogin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.Form{
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 10px;
+    padding: 50px 0;
+}
+
+
+.Field{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 60%;
+    max-width: 80%;
+    
+}
+.closebtn{
+    
+    display: flex;
+    align-self: flex-end;
+    border: none;
+  }
+.closebtn button{
+    
+  display: flex;
+  align-self: flex-end;
+  border: none;
+  background-color: rgb(245, 65, 65);
+  color: azure;
+  padding: 5px 0;
+}
+
+.closebtn button:hover{
+    background-color: rgb(241, 6, 6);
+    cursor: pointer;
+}
+
+.Field input{
+    border: none;
+    border-bottom: 1px solid grey ;
+    margin: 20px 0;
+    outline: none;
+}
+
+.Field input:active{
+    border: none;
+    outline: none;
+}
+
+.loginbtn{
+    border: none;
+    background: rgb(12,171,227);
+    background: linear-gradient(90deg, rgba(12,171,227,1) 1%, rgba(101,180,200,1) 44%, rgba(197,58,233,1) 100%);
+    color: white;
+    padding: 10px 0;
+    cursor: pointer;
+    
+}
+.loginbtn:hover{
+    background: rgb(12,171,227); 
+    
+}
+
+.Field p{
+text-align: center;
+font-size: 10px;
+}
+
+.Forget:hover{
+color: rgb(117, 126, 214);
+cursor: pointer;
+}
+
+.ClickSignup:hover{
+    color: rgb(117, 126, 214);
+    cursor: pointer;
+    }
+
+
+    @media screen and (max-width: 480px) {
+        .Form{
+            width: 100%;
+           
+        }
+      }
