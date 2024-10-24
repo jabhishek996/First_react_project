@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/your-repo-name/static/css/main.1d9b9099.css",
-    "main.js": "/your-repo-name/static/js/main.b3fae9aa.js",
-    "static/js/453.51222a26.chunk.js": "/your-repo-name/static/js/453.51222a26.chunk.js",
-    "index.html": "/your-repo-name/index.html",
-    "main.1d9b9099.css.map": "/your-repo-name/static/css/main.1d9b9099.css.map",
-    "main.b3fae9aa.js.map": "/your-repo-name/static/js/main.b3fae9aa.js.map",
-    "453.51222a26.chunk.js.map": "/your-repo-name/static/js/453.51222a26.chunk.js.map"
+    "main.css": "/First_react_project/static/css/main.1d9b9099.css",
+    "main.js": "/First_react_project/static/js/main.cc7e7340.js",
+    "static/js/453.51222a26.chunk.js": "/First_react_project/static/js/453.51222a26.chunk.js",
+    "index.html": "/First_react_project/index.html",
+    "main.1d9b9099.css.map": "/First_react_project/static/css/main.1d9b9099.css.map",
+    "main.cc7e7340.js.map": "/First_react_project/static/js/main.cc7e7340.js.map",
+    "453.51222a26.chunk.js.map": "/First_react_project/static/js/453.51222a26.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1d9b9099.css",
-    "static/js/main.b3fae9aa.js"
+    "static/js/main.cc7e7340.js"
   ]
 }
